@@ -1,1 +1,6 @@
-
+stremlit
+textblob
+pandas
+openpyxl
+xlrd
+nltk
